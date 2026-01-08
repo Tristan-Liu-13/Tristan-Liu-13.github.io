@@ -61,7 +61,7 @@ Advances in Neural Information Processing Systems (NeurIPS) 2024
 </div>
 </div>
 
-- Conditional Representation Learning for Customized Tasks, **NeurIPS 2025**
+- Conditional Representation Learning for Customized Tasks, **NeurIPS 2025 (Spotlight)**
 - Interactive Deep Clustering via Value Mining, **NeurIPS 2024**
 
 # 🎖 Honors and Awards
