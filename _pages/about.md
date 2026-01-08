@@ -19,7 +19,7 @@ redirect_from:
 
 Honglin
 
-I am currently pursuing a PhD at the School of Computer Science, Sichuan University, with a research focus on deep clustering and representation learning.
+I am currently pursuing a PhD at the School of Computer Science, Sichuan University, with a research focus on deep clustering and representation learning. Recently, I have been extending my research interests to emerging areas, including LLMs and VLMs.
 
 
 
