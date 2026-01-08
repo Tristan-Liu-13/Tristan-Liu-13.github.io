@@ -32,16 +32,21 @@ I am currently pursuing a PhD at the School of Computer Science, Sichuan Univers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interactive Deep Clustering via Value Mining](https://proceedings.neurips.cc/paper_files/paper/2024/file/4ac4365b98bc242acd5ab974a05c68a8-Paper-Conference.pdf)
+### Interactive Deep Clustering via Value Mining
 
 **Honglin Liu**, Peng Hu, Changqing Zhang, Yunfan Li, Xi Peng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Advances in Neural Information Processing Systems (NeurIPS) 2024
+[**[Paper]**](https://proceedings.neurips.cc/paper_files/paper/2024/file/4ac4365b98bc242acd5ab974a05c68a8-Paper-Conference.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Code]**](https://github.com/XLearning-SCU/2024-NeurIPS-IDC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**[Bib]**](https://scholar.googleusercontent.com/scholar.bib?q=info:7MJI6j_o82MJ:scholar.google.com/&output=citation&scisdr=Crz_fna0EL_3_OgZxZU:ALhkC2QAAAAAaV8f3ZXCkBiDBMLsG3z6sUJSXKM&scisig=ALhkC2QAAAAAaV8f3TqPV3U-xUJ9msGsGTPc0ZA&scisf=4&ct=citation&cd=-1&hl=zh-CN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Conditional Representation Learning for Customized Tasks, **NeurIPS 2025**
+- Interactive Deep Clustering via Value Mining, **NeurIPS 2024**
 
 # 🎖 Honors and Awards
 - *2025.10* National Scholarship
